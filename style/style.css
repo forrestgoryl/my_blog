@@ -1,0 +1,11 @@
+.margin {
+    margin-left:500px;
+}
+.marginRight {
+    margin-right:950px;
+    text-align:right
+}
+* table {
+    width:500px;
+    row-gap:25px;
+}
